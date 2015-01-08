@@ -1,0 +1,10 @@
+Time for action – configuring Eclipse to run a particular TestNG XML file
+Perform the following steps to configure Eclipse to run a particular TestNG XML file:
+
+On the top-bar menu of Eclipse, go to Run | Run Configurations.
+Select TestNG from the set of configurations and click on the New Launch Configuration icon.
+Time for action – configuring Eclipse to run a particular TestNG XML file
+On the configuration window give a name My Test to the configuration.
+Go to the Project section, click on Browse and select your project on the project window.
+Now go to the Suite section and click on Browse. Select the mytestng.xml configuration.
+Click on Apply, and then click on Run. This will run the selected testng XML configuration file. ...
